@@ -7,3 +7,4 @@ lineas
 console.log("¡Hola, Javascript!")
 console.log('¡Hola, Javascript!')
 console.log(`¡Hola, Javascript!`)
+//hola santy
