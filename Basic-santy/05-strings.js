@@ -19,6 +19,8 @@ console.log(saludo.indexOf("Santy")) // el indice donde ha encontrado santy, si 
 console.log(saludo.includes("Hola")) // existe hola dentro de la cadena: true or false
 console.log(saludo.slice(0,5)) //corto la cadena de texto inicio,final
 console.log(saludo.replace("Hola", "Adios")) // Remplazar hola con adios
+let b3 = " a b c bf f"
+console.log(b3.replaceAll(" ","-")) // reemplazar mas de 1 
 
 //Templates literales (plantillas literales)
 
