@@ -10,7 +10,7 @@ let person = {
 
 // extraer valores de array o objetos y guardarlo en variables
 // de forma consisa(breve y preciso)
-
+//prueba
 //sintaxys array
 
 let [myValue0, myValue1] = myArray
